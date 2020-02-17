@@ -1,2 +1,0 @@
-# csandboxPokus
-Created with CodeSandbox
